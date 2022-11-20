@@ -6,9 +6,10 @@ int main(){
 
     cin>>b>>h;
 
+
     a=0.5*b*h;
 
     cout << "area of traingle is "<<a;
-    
+
     return 0;
 }
